@@ -1,0 +1,1 @@
+This project showcases an in-depth Exploratory Data Analysis (EDA) on the FIFA dataset using Python. Leveraging libraries like Matplotlib, it uncovers key insights, visualizes player statistics, and highlights trends to better understand player performance and attributes.
